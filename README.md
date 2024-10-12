@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sameer9823](https://github.com/Sameer9823)
 
-- 💬 Ask me about **HTML, Tailwindcss , Reactjs**
+- 💬 Ask me about **HTML, Tailwindcss ,JavaScript, Reactjs, Nextjs, MongoDB**
 
 - 📫 How to reach me **sameerselokar9823@gmail.com**
 
