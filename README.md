@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sameerselokar9823@gmail.com**
 
-- 📄 Know about my experiences [https://www.papermark.io/view/clzye287s0001h2shcxlo8ng0](https://www.papermark.io/view/clzye287s0001h2shcxlo8ng0)
-
 - ⚡My portfolio [https://portfolio-sameer-selokar-67.vercel.app/](https://portfolio-sameer-selokar-67.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
