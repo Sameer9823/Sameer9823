@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sameerselokar9823@gmail.com**
 
-- ⚡My portfolio [https://portfolio-sameer-selokar-67.vercel.app/](https://portfolio-sameer-selokar-67.vercel.app/)
+- ⚡My portfolio [https://portfolio-sameer-selokar-67.vercel.app/](https://sameer-selokar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
