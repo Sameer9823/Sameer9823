@@ -1,32 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sameer Selokar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Sameer+Selokar;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Building+the+web%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
+<p>Full Stack Developer · India</p>
 
-- 🔭 I’m currently working as an **Intern(Full stack developer)**
+![Profile Views](https://komarev.com/ghpvc/?username=sameer9823&style=flat-square&color=58a6ff)
 
-- 🌱 I’m currently learning **Reactjs and Nextjs**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sameer9823](https://github.com/Sameer9823)
+---
 
-- 💬 Ask me about **HTML, Tailwindcss ,JavaScript, Reactjs, Nextjs, MongoDB**
+## // about me
 
-- 📫 How to reach me **sameerselokar9823@gmail.com**
+- 🔭 Currently working as a **Full Stack Developer Intern**
+- 🌱 Learning **React.js & Next.js**
+- 💻 Projects → [github.com/Sameer9823](https://github.com/Sameer9823)
+- 🌐 Portfolio → [sameer-selokar.vercel.app](https://sameer-selokar.vercel.app)
+- 📬 Reach me → sameerselokar9823@gmail.com
 
-- ⚡My portfolio [https://sameer-selokar.vercel.app/](https://sameer-selokar.vercel.app/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameer selokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer selokar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_mr_sameer__9823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_mr_sameer__9823" height="30" width="40" /></a>
-<a href="https://discord.gg/sameer9823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sameer9823" height="30" width="40" /></a>
-</p>
+## // tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer9823&show_icons=true&locale=en&layout=compact" alt="sameer9823" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer9823&show_icons=true&locale=en" alt="sameer9823" /></p>
+## // github stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9823&" alt="sameer9823" /></p>
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=sameer9823&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer9823&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer9823&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## // connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-selokar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr_sameer__9823)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sameer9823)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerselokar9823@gmail.com)
+
+---
+
+<div align="center"><sub>Made with ♥ by Sameer · Thanks for stopping by!</sub></div>
