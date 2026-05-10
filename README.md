@@ -16,7 +16,7 @@
 ### 👾 About Me
 
 ```
-💼  Role      →  Full Stack Developer Intern
+💼  Role      →  Full Stack Developer 
 🌱  Learning  →  React.js & Next.js
 📦  Projects  →  github.com/Sameer9823
 🌐  Portfolio →  sameer-selokar.vercel.app
